@@ -3,7 +3,7 @@
   <head>
     
     <meta charset="UTF-8">
-    <title>Login Form With Flat Desing</title>
+    <title>SPA Lelesk</title>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="controller/js/login.js"></script>
     
